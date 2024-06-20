@@ -3,11 +3,11 @@ A linux based scripting tool, thats adds and removes, in one command, the **curr
 
 Add script to .bashrc
 
-`user@bash$ atp . `
+**user@bash$** `atp . `
 
 will add current folder to $PATH
 
-`user@bash$ atp -r . `
+**user@bash$**  `atp -r . `
 
 will remove current folder to $PATH
 
