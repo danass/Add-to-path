@@ -1,13 +1,13 @@
-# atp
-A linux based tool to add and remove current folder to $PATH env from command line bash
+# Add to path atp
+A linux based scripting tool, thats adds and removes, in one command, the **current folder to $PATH** env within bash
 
 Add script to .bashrc
 
-$ atp . 
+`$ atp . `
 
 will add current folder to $PATH
 
-$ atp -r . 
+`$ atp -r . `
 
 will remove current folder to $PATH
 
